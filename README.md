@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jarikkomarik
 - 👀 I’m interested in java
 - 🌱 I’m currently learning lava
-- 💞️ I’m looking to collaborate on anz projec ill be helpfull
+- 💞️ I’m looking to collaborate on any projec ill be helpfull
 - 📫 How to reach me ufland.ufland@gmail.com
 
 <!---
